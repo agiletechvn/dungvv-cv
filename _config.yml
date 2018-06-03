@@ -20,6 +20,7 @@ tagline: Solution Architect
 pic: https://github.com/tubackkhoa.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "With more than 9 years of work experience in various positions, various technologies, I would like to build awesome systems.
 I love coding, studing new technologies and having time with my family.
+<br>
 I believe that every problem has its own solution.
 <br>
 You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
@@ -28,7 +29,9 @@ You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech 
 email: chung@agiletech.vn
 phone: +84 989 746 579
 website: agiletech.vn #do not add http://
-linkedin: nguyen-van-chung
+linkedin: chung-nguyen-6756a6160
+github: chungnv
+twitter: '@chungnv'
 
 #Update all the sections by editing the files inside _data folder.
 
