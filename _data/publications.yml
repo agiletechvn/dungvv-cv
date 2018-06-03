@@ -1,14 +1,1 @@
-intro: "Some publications of me."
-publications:
-  - paper:
-    title: Hyperledger Ha Noi Meetup
-    authors: me & Blockchain Viet Nam
-    conference: https://twitter.com/Hyperledger/status/986336495249244160
-  - paper:
-    title: "My thoughts of blockchain"
-    authors: me
-    conference: "https://vietnambiz.vn/cto-cua-agiletech-noi-ve-co-hoi-khoi-nghiep-voi-blockchain-36311.html"
-  - paper:
-    title: Mobile Day Vietname
-    authors: me & TopDev Viet Nam
-    conference: https://www.facebook.com/mobiledayevent/photos/a.1588506164738584.1073741829.1582880628634471/2034979570091239/?type=3&theater
+
