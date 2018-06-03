@@ -9,15 +9,15 @@ about: True # set to False or comment line if you want to remove the "How to use
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 # style: styles-2
 #style: styles-3
-style: styles-4
-#style: styles-5
+#style: styles-4
+style: styles-5
 #style: styles-6
 
 
 #Profile information
 name: Nguyen Van Chung
 tagline: Solution Architect
-pic: https://avatars1.githubusercontent.com/u/25833158?s=400&u=47806894d4eb9ff5832015809e0fa6410687ae49&v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "With more than 9 years of work experience in various positions, various technologies, I would like to build awesome systems.
 I love coding, studing new technologies and having time with my family.
 <br>
