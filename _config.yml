@@ -1,6 +1,6 @@
 # Site Settings
-title: Nguyen Van Chung Resume
-description: "Curriculum Vitae of chung@agiletech.vn"
+title: Vu Viet Dung Resume
+description: "Curriculum Vitae of dungvv@agiletech.vn"
 url: 'http://agiletech.vn'
 baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -15,23 +15,22 @@ style: styles-6
 
 
 #Profile information
-name: Nguyen Van Chung
-tagline: Solution Architect
+name: Vu Viet Dung
+tagline: Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "With more than 9 years of work experience in various positions, various technologies, I would like to build awesome systems.
-I love coding, studing new technologies and having time with my family.
+summary: "With 4 years in software development as a developer, I would like to continue work in IT fields with the role of developer, especially big data engineer because I have a strong interest in processing data as well as programing.
 <br>
 I believe that every problem has its own solution.
 <br>
 You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
 
 #sidebar links
-email: chung@agiletech.vn
-phone: +84 989 746 579
+email: dungvv@agiletech.vn
+phone: +84 973 450 208
 website: agiletech.vn #do not add http://
-linkedin: chung-nguyen-6756a6160
-github: chungnv
-twitter: '@chungnv'
+linkedin: dung-vu-viet-011a03a0
+github: dungvv
+twitter: '@haiveu'
 
 #Update all the sections by editing the files inside _data folder.
 

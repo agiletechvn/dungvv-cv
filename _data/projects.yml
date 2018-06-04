@@ -4,8 +4,8 @@ projects:
     title: Revenue Assurance and Fraud Management
     tagline: "Detect revenue loss and leakage, and fraud in telecom system. Process 5 billion rows and 6TB data per day"
   - project:
-    title: Interconnect System
-    tagline: "Process generated CDRs from switchboard and do interconnect business for a telecom provider"
+    title: Shipping platform
+    tagline: "Develop a system that allow user to track their shipment worldwide and analyse shipments data"
   - project:
-    title: Search Route
-    tagline: "For custormer to find the best ruote with bus, ferry, flights and certain services"
+    title: Branded Mini Game
+    tagline: "Analyse user information to provide customized advertisements"
