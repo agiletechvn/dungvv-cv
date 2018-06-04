@@ -11,17 +11,17 @@
   name: "Java Framework: Jersey, Spring"
   level: 95%
 - skill:
-  name: Database: MySQL, Postgresql, MongoDB, Redis
+  name: "Database: MySQL, Postgresql, MongoDB, Redis"
   level: 95%
 - skill:
-  name: Bigdata & NoSQL: Hadoop, Spark, Storm, Hive
+  name: "Bigdata & NoSQL: Hadoop, Spark, Storm, Hive"
   level: 95%
 - skill:
-  name: Message Broker: Kafka, ActiveMQ
+  name: "Message Broker: Kafka, ActiveMQ"
   level: 98%
 - skill:
-  name: Full Text Search: Elastichsearch, Solr
+  name: "Full Text Search: Elastichsearch, Solr"
   level: 98%  
 - skill:
-  name: Machine Learning: scikit-learn, pandas, tensorflow
+  name: "Machine Learning: scikit-learn, pandas, tensorflow"
   level: 90% 
