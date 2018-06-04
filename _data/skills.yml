@@ -8,7 +8,7 @@
   name: Java
   level: 99%
 - skill:
-  name: Java Framework: Jersey, Spring
+  name: "Java Framework: Jersey, Spring"
   level: 95%
 - skill:
   name: Database: MySQL, Postgresql, MongoDB, Redis
@@ -23,5 +23,5 @@
   name: Full Text Search: Elastichsearch, Solr
   level: 98%  
 - skill:
-  name: Machine Learning: Python, Scikit-learn, tensorflow, Word2Vec
+  name: Machine Learning: scikit-learn, pandas, tensorflow
   level: 90% 
